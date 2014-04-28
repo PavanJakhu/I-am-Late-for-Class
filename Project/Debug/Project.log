@@ -1,0 +1,27 @@
+﻿Build started 4/21/2014 11:45:41 AM.
+     1>Project "C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Project\Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ISDL2\\inlcude /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Game.cpp Source.cpp
+         Game.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Debug\Project.exe" /INCREMENTAL /NOLOGO SDL2/lib/SDL2main.lib SDL2/lib/SDL2.lib SDL2/lib/SDL2test.lib SDL2/lib/SDL2_image.lib SDL2/lib/SDL2_ttf.lib SDL2/lib/SDL2_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Debug\Project.lib" /MACHINE:X86 Debug\Animation.obj
+         Debug\AnimationManager.obj
+         Debug\Constants.obj
+         Debug\Game.obj
+         Debug\Obstacles.obj
+         Debug\Player.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Texture.obj
+         Debug\Source.obj
+         Debug\tinyxml2.obj
+         Debug\Utils.obj
+         Project.vcxproj -> C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Debug\Project.exe
+     1>Done Building Project "C:\Users\Tigerdirect.ca\Dropbox\College\Semester 2\GAME 210\Visual Studio\Projects\Final Project\Project\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.67
