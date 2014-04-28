@@ -20,7 +20,7 @@ namespace constants
 	//The screen's height.
 	const int SCREEN_HEIGHT = 600;
 	//The window's name.
-	const std::string SCREEN_NAME = "Fuck, I'm Late for Class";
+	const std::string SCREEN_NAME = "I'm Late for Class";
 
 	//The window.
 	extern SDL_Window* window;
